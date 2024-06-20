@@ -26,4 +26,11 @@ Real-State-Website/
 #Screenshots
 
   # Landing Page
+
+  ![Vite + React + TS - Google Chrome 21-06-2024 01_17_38](https://github.com/Anshu1997-cloud/Real-State-Website/assets/135546335/79fef60d-4cd2-425d-9cd6-3971dd48a041)
+
+
+  # Properties Page
+
+  
   
