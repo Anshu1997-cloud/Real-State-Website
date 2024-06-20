@@ -10,11 +10,13 @@ Frontend | Backend(JSON)
 https://real-state-webapplication.netlify.app/
 
 #Directory Structure
+
 Real-State-Website/ ├─ backend/
 │ ├─ server.js
 │ ├─ routes/
 │ ├─ ...Rest
 
 #Screenshots
+
   Landing Page
   
