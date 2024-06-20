@@ -11,9 +11,14 @@ https://real-state-webapplication.netlify.app/
 
 #Directory Structure
 
-Real-State-Website/ ├─ backend/
+Real-State-Website/
+
+├─ backend/
+
 │ ├─ server.js
+
 │ ├─ routes/
+
 │ ├─ ...Rest
 
 #Screenshots
