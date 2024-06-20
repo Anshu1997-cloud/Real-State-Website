@@ -32,5 +32,9 @@ Real-State-Website/
 
   # Properties Page
 
+  ![Vite + React + TS - Google Chrome 21-06-2024 01_19_51](https://github.com/Anshu1997-cloud/Real-State-Website/assets/135546335/388bf871-a26d-4793-b431-ac87204acde5)
+
+  # Property Detail Page
+
   
   
