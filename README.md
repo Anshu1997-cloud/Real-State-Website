@@ -42,6 +42,9 @@ Real-State-Website/
 
   ![Vite + React + TS - Google Chrome 21-06-2024 01_26_55](https://github.com/Anshu1997-cloud/Real-State-Website/assets/135546335/85611fb6-d777-4e85-9288-31b668b1a98a)
 
+  # Mobile View
+
+  ![Vite + React + TS - Google Chrome 21-06-2024 01_28_41](https://github.com/Anshu1997-cloud/Real-State-Website/assets/135546335/4172c9a2-3220-44ae-9ac0-ee119dd60100)
 
   
   
